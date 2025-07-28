@@ -3,3 +3,11 @@ This repository builds a complex, step-by-step SQLite data model and analytic wo
 
 ---
 
+## 🐦‍🔥 Project Context
+Retailers face high SKU variety, stockouts, deadstock, and shelf value risks. Effective inventory classification empowers:
+- Strategic procurement/prioritization (ABC)
+- Shelf/Stockspace optimization (FSN)
+- Informed reorder and clearance decisions
+
+---
+
