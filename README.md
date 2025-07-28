@@ -11,3 +11,36 @@ Retailers face high SKU variety, stockouts, deadstock, and shelf value risks. Ef
 
 ---
 
+## 🍀 SQL Queries used
+- SELECT()
+- FROM()
+- WHERE()
+- AS()
+- WHEN()
+- AND()
+- BETWEEN()
+- SUM()
+- CASE()
+- END()
+- COALESCE()
+- GROUP BY()
+- ORDER BY()
+- JOIN()
+- LEFT JOIN()
+- ROUND()
+- DESC()
+- INSERT INTO()
+- PRIMARY KEY()
+- FOREIGN KEY()
+- AUTOINCREMENT()
+
+---
+
+## 🦚 Requirements
+- Dbeaver > SQLLite
+- Fundamentals of Database Management system
+- Inventory management
+
+---
+
+*"Turn inventory faster than people" - James Sinegal*
